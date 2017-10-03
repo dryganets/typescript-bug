@@ -10,7 +10,6 @@
   "author": "Sergei Dryganets",
   "license": "MIT",
   "devDependencies": {
-    "@types/react": "^16.0.0",
     "typescript": "2.6.0-dev.20170826"
   },
   "dependencies": {
