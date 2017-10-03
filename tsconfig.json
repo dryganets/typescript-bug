@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "declaration": false,
+        "noResolve": false,
+        "module": "commonjs",
+        "target": "es5",
+        "experimentalDecorators": true,
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "noUnusedLocals": true,
+        "strictNullChecks": true,
+        "forceConsistentCasingInFileNames": true,
+        "typeRoots": [
+            "node_modules/@types"
+        ]
+    },
+    "exclude": [
+        "node_modules",
+        ".temp",
+        ".vscode"
+    ]
+}
